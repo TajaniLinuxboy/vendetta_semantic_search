@@ -1,0 +1,10 @@
+# Virtual environment files
+bin/
+include/
+lib/
+lib64
+pyvenv.cfg
+
+# Python cache
+__pycache__/
+*.pyc
